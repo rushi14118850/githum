@@ -1,2 +1,0 @@
-# githum
-class main 
